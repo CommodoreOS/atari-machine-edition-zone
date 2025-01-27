@@ -1,7 +1,7 @@
 # About PCUAE Atari Machine Edition, PLEASE READ...
 
 # PCUAE Installer Setup has now completed.
-## PCUAE Installer Setup has now finished installing PCUAE PCUAE Atari Machine Edition Part 1.
+## PCUAE Installer Setup has now finished installing PCUAE Atari Machine Edition Part 1.
 
 ## More info on PCUAE Atari Machine Edition
 
