@@ -7,7 +7,7 @@
 
 You only need to install part 1 if (1). You are installing PCUAE on the Atari2600 Plus only and (2). If you only want to use 2600/7800 roms on the Atarti2600 Plus and (3). If you only want to use Stella Emulator 7.0 with its GUI and Retroarch built in.
 
-## Continue reading if you want to run PCUAE Atari Machine Edition on other models(Mini/Full Size Consoles/Computers).
+## Continue reading if you want to run PCUAE Atari Machine Edition on other models(Mini/Full Size Machines).
 
 Install parts 2 and 3 if (1). You want to use Atari Machine Edition on THE400/Atari GameStation Pro and (2), if you want to use Atari 800/ST Games.
 
