@@ -9,7 +9,7 @@ You only need to install part 1 if (1). You are installing PCUAE on the Atari260
 
 ## Continue reading if you want to run PCUAE Atari Machine Edition on other models.
 
-Install parts 2 and 3 if (1). You ant to use Atari Machine Edition on THE400/Atari GameStation Pro and (2), if you want to use Atari 800/ST Games.
+Install parts 2 and 3 if (1). You want to use Atari Machine Edition on THE400/Atari GameStation Pro and (2), if you want to use Atari 800/ST Games.
 
 
 ## More info on PCUAE
