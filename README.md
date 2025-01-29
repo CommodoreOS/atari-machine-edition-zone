@@ -23,7 +23,7 @@ Install setup-1, setup-2 and setup-3 if (1). You want to use Atari Machine Editi
 
 Look here for PCUAE Updates and info: https://thec64community.online/thread/1681/new-release-pcuae-v4-4
 
-And look here for PCUAE Guides: https://github.com/CommodoreOS/PCUAE/blob/main/README.md#pcuae-quick-startup-guide
+And look here for PCUAE Guides: [https://github.com/CommodoreOS/PCUAE/blob/main/README.md#pcuae-quick-startup-guide](https://thec64community.online/thread/1658/pcuae-atari2600-plus)
 
 PCUAE WEBSITE: https://projectcarouselusb.eu
 
