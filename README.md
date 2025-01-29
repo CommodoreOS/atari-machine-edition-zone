@@ -6,9 +6,6 @@
 ## More info on PCUAE Atari Machine Edition
 
 
-## You will need all 3 setups for THEA400 Mini and Atari Gamestation Pro.
-
-
 You only need to install Atari Machine Edition on the Atari2600 Plus, THEA400 Mini or Atari Gamestsion Pro, they are now statndalone install setups.
 
 
