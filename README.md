@@ -9,7 +9,7 @@
 ## You will need all 3 setups for THEA400 Mini and Atari Gamestation Pro.
 
 
-You only need to install setup-1 if (1). You are installing PCUAE on the Atari2600 Plus only and (2). If you only want to use 2600/7800 roms on the Atarti2600 Plus and (3). If you only want to use Stella Emulator 7.0 with its GUI and Retroarch built in.
+You only need to install setup-1 only if (1). You are installing PCUAE on the Atari2600 Plus only and (2). If you only want to use 2600/7800 roms on the Atarti2600 Plus and (3). If you only want to use Stella Emulator 7.0 with its GUI and Retroarch built in so basic Atari Mode not Full.
 
 ## Continue reading if you want to run PCUAE Atari Machine Edition on other models(Mini/Full Size Machines).
 
