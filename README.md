@@ -13,7 +13,7 @@ You only need to install setup-1 only if (1). You are installing PCUAE on the At
 
 ## Continue reading if you want to run PCUAE Atari Machine Edition on other models(Mini/Full Size Machines).
 
-Install setup-1, setup-2 and setup-3 if (1). You want to use Atari Machine Edition on THE400/Atari Gamestation Pro and (2), if you want to use Atari 800/ST Games or want Full Atari Mode.
+Install setup-1, setup-2 and setup-3 if (1). You want to use Atari Machine Edition on THE400 Mini/Atari Gamestation Pro and (2), if you want to use Atari 800/ST Games or want Full Atari Mode.
 
 
 (For Atari Gamestation Pro Only) `DO NOT FORGET` to download and install on to the Atari Gamstatsion Pro micro sd card - `agsp-boot-files-for-on-the-sdcard-setup-4.exe` so it can boot PCUAE.
