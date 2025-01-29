@@ -6,7 +6,7 @@
 ## More info on PCUAE Atari Machine Edition
 
 
-You only need to install Atari Machine Edition on the Atari2600 Plus, THEA400 Mini or Atari Gamestsion Pro, they are now statndalone install setups.
+You only need to install Atari Machine Edition on the Atari2600 Plus, THEA400 Mini or Atari Gamestsion Pro, they are now standalone install setups exe files so one for each model of machone now.
 
 
 (For Atari Gamestation Pro Only) `DO NOT FORGET` to download and install on to the Atari Gamstatsion Pro micro sd card - `agsp-boot-files-for-on-the-sdcard-setup-4.exe` so it can boot PCUAE.
