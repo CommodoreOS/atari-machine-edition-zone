@@ -1,7 +1,7 @@
 # About PCUAE Atari Machine Edition, PLEASE READ...
 
 # PCUAE Installer Setup has now completed.
-## PCUAE Installer Setup has now finished installing PCUAE Atari Machine Edition Part 1.
+## PCUAE Installer Setup has now finished installing PCUAE Atari Machine Edition.
 
 ## More info on PCUAE Atari Machine Edition
 
@@ -9,11 +9,7 @@
 ## You will need all 3 setups for THEA400 Mini and Atari Gamestation Pro.
 
 
-You only need to install setup-1 only if (1). You are installing PCUAE on the Atari2600 Plus only and (2). If you only want to use 2600/7800 roms on the Atarti2600 Plus and (3). If you only want to use Stella Emulator 7.0 with its GUI and Retroarch built in so basic Atari Mode not Full.
-
-## Continue reading if you want to run PCUAE Atari Machine Edition on other models(Mini/Full Size Machines).
-
-Install setup-1, setup-2 and setup-3 if (1). You want to use Atari Machine Edition on THE400 Mini/Atari Gamestation Pro and (2), if you want to use Atari 800/ST Games or want Full Atari Mode.
+You only need to install Atari Machine Edition on the Atari2600 Plus, THEA400 Mini or Atari Gamestsion Pro, they are now statndalone install setups.
 
 
 (For Atari Gamestation Pro Only) `DO NOT FORGET` to download and install on to the Atari Gamstatsion Pro micro sd card - `agsp-boot-files-for-on-the-sdcard-setup-4.exe` so it can boot PCUAE.
