@@ -12,6 +12,9 @@ You only need to install part 1 if (1). You are installing PCUAE on the Atari260
 Install parts 2 and 3 if (1). You want to use Atari Machine Edition on THE400/Atari GameStation Pro and (2), if you want to use Atari 800/ST Games.
 
 
+(For Atari Gamestation Prpo Only) `DO NOT FORGET` to download and install on to the Atari Gamstatsion Pro micro sd card - `agsp-boot-files-for-on-the-sdcard-setup-4.exe` so it can boot PCUAE.
+
+
 ## More info on PCUAE
 
 Look here for PCUAE Updates and info: https://thec64community.online/thread/1681/new-release-pcuae-v4-4
